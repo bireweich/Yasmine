@@ -1,2 +1,2 @@
-# Yasmine
+# BIO 392
 bla bla
