@@ -114,8 +114,14 @@ parse.(Int, j)
 adding a point... so you can use a list?
 
 
+Modules:
+include()
+  functions.jl
+  typeof.jl
+using...
+
+environments and modules??
 
 
-
-
- 
+ Revise package for importing module files
+  includet
