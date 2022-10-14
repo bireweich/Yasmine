@@ -125,3 +125,20 @@ environments and modules??
 
  Revise package for importing module files
   includet
+  
+  
+## Day 2
+
+first(df, n)
+last()
+names(df)
+show(df, allcols=true) to show whole dataframe
+size(df)
+ismissing.(df[!, :colname]) gives you missing values, returns booleans
+unique(df[!, :colname])
+dropmissing(df) drops any rows and columns with missing values
+describe(df) summary statistics
+
+
+
+
